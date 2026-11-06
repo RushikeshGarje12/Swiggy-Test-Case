@@ -37,7 +37,7 @@ Manual test cases and execution results for the **Swiggy food delivery mobile ap
 - Payments and orders were not completed, to avoid real transactions.
 
 ## Files
-- `Swiggy_Test_Cases_Template.xlsx`: test cases in a standard template (Scenario ID, Test Case ID, Pre Condition, Steps, Expected Result, Actual Result, Status, Priority) with a Summary sheet.
+- `Swiggy_Test_Cases.xlsx`: test cases in a standard template (Scenario ID, Test Case ID, Pre Condition, Steps, Expected Result, Actual Result, Status, Priority) with a Summary sheet.
 
 ## Tools and Skills
 Microsoft Excel, Git, GitHub. Test case design, positive and negative testing, functional testing, UI testing, test documentation.
